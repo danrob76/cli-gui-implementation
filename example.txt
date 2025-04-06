@@ -1,0 +1,5 @@
+This document demonstrates the use of the Document Tagging System.
+The goal is to extract meaningful keywords based on the term frequency and inverse document frequency (TF-IDF) algorithm.
+TF-IDF is commonly used in text analysis and information retrieval to rank words based on their importance in a document.
+The higher the TF-IDF score, the more important the keyword is.
+The system calculates the importance of each word based on its occurrence and relevance across multiple documents.
